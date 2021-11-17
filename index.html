@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      
+    <title>Grocery Challenge</title>
+    <style>
+      body{
+    background-size: cover;
+   
+}
+        th, td, p, input {
+            font:14px Verdana;
+            align-items: center;
+            cursor: pointer;
+        }
+        table, th, td 
+        {
+            border: solid 1px #DDD;
+            border-collapse: collapse;
+            padding: 10px 15px;
+            color:black;
+            text-align: center;
+            align-content: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 50px;
+            background-color:beige;
+        }
+        th {
+            font-weight:bold;
+            border: solid 2px #DDD;
+            color:wheat;
+            background-color: darkgreen;
+            align-items: baseline;
+            
+        }
+        body{
+            text-align: center;
+      
+        }
+      
+        </style>
+</head>
+<body background="./284730-supermarket-wallpaper-top-free-supermarket-background.jpg">
+        
+    
+        <div id="vertical-center">
+        
+    <input type='button'  id="loader" onclick=' return ajax() & chkItem(this)'  value='Grocery List' />
+   
+</div>
+    <p id='showData'></p>
+    
+    <p id='msg'></p>
+    
+        <div id="demo" ></div> 
+
+    <script src="ajax.js"></script>
+</body>
+</html>

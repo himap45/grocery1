@@ -1,0 +1,117 @@
+{
+  "grocery":
+  [
+   {
+    "Slno": 1 ,
+    "Name": "Tomato",
+    "Quantity": 1,
+    "Unit":"Kg",
+    "Department":"Veggies",
+    "Notes":"Fresh"
+    
+   },
+   {
+    "Slno": 2 ,
+    "Name": "Onion",
+    "Quantity": 5,
+    "Unit":"Kg",
+    "Department":"Veggies",
+    "Notes":"Healthy"
+    
+  },
+  {
+    "Slno": 3,
+    "Name" :"Rice",
+    "Quantity":"10",
+    "Unit":"Kg",
+    "Department":"Grocery",
+    "Notes":"Basmati Rice"
+  
+  },
+  {
+    "Slno": 4 ,
+    "Name": "Milk",
+    "Quantity": 500,
+    "Unit":"ml",
+    "Department":"Grocery",
+    "Notes":"Amul Brand"
+    
+  },
+  {
+    "Slno": 5 ,
+    "Name": "Pen",
+    "Quantity": 10,
+    "Unit":"nos",
+    "Department":"Stationary",
+    "Notes":"Blue colour"  
+    
+  },
+  {
+    "Slno": 6 ,
+    "Name": "Meat",
+    "Quantity": 2,
+    "Unit":"Kg",
+    "Department":"Food",
+    "Notes":"Meat"    
+  
+  },
+  {
+    "Slno": 7,
+    "Name": "Chips",
+    "Quantity": 5,
+    "Unit":"Packet",
+    "Department":"Snacks",
+    "Notes":"Lays(Green)" 
+   
+
+  },
+  {
+    "Slno": 8,
+    "Name": "Eggs",
+    "Quantity": 10,
+    "Unit":"nos",
+    "Department":"Eggs",
+    "Notes":"Chicken Egg"  
+  
+  },
+  {
+    "Slno": 9,
+    "Name": "Wine",
+    "Quantity": 2,
+    "Unit":"litre",
+    "Department":"Beverages",
+    "Notes":"Red Wine"  
+    
+  },
+  {
+    "Slno": 10,
+    "Name": "Detergent Powder",
+    "Quantity": 3,
+    "Unit":"nos",
+    "Department":"Household",
+    "Notes":"Surf Excel easy wash" 
+   
+
+  },
+  {
+    "Slno": 11,
+    "Name": "Bread",
+    "Quantity":2 ,
+    "Unit":"nos",
+    "Department":"Snacks",
+    "Notes":"Elite" 
+    
+  },
+  {
+    "Slno": 12,
+    "Name": "coffee ",
+    "Quantity":500 ,
+    "Unit":"g",
+    "Department":"Beverages",
+    "Notes":" Bru Instant "
+   
+  }
+
+  ]
+}
+
